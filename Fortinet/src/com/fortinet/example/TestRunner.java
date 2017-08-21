@@ -62,16 +62,6 @@ public class TestRunner {
 		assertTrue(flag);
 	}
 
-	@Test
-	public void testReverseListLength() {
-
-		Node head = new Node(1);
-		head.next = new Node(2);
-		head.next.next = new Node(3);
-		head.next.next.next = new Node(4);
-		Node result = myClass.reverseList(head);
-		Assert.assertNotNull(result);
-	}
 
 	@Test
 	public void testReverseListWithOneElement() {
