@@ -1,4 +1,11 @@
 # Questions1
+2. Select one from Singleton，Dynamic Proxy，
+  Factory and Interpreter design pattern or the one you like most. 
+Assume you are using Java 7+
 
-1)// Firstly describe scenario(s): some design pattern sometimes may have more variance. list all of them if you can.
-// Code them out according to your scenario(s)
+Singleton Pattern :
+- The Singleton is a useful Design Pattern for allowing only one instance of your class
+- 
+// Firstly descript scenario(s):
+
+// Code them out here according to your scenario(s)
