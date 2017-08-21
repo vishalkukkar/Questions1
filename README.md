@@ -1,4 +1,4 @@
-# Question
+
 
 
 #   1. Objective: Algorithm:
@@ -24,10 +24,8 @@ public Node reverseList(Node head){
 
 
 }
-
-#   Answer - under package com.fortinet.example
-
-
+   
+Answer - under package com.fortinet.example
 
 
 
@@ -47,12 +45,13 @@ public Node reverseList(Node head){
 
 
 
-#   2. Select one from Singleton，Dynamic Proxy，
-  Factory and Interpreter design pattern or the one you like most. 
+
+
+#   2. Design Pattern
+Select one from Singleton，Dynamic Proxy，Factory and Interpreter design pattern or the one you like most. 
 Assume you are using Java 7+
 
-
-#   Answer - 
+Answer - 
 
 Factory Pattern :
 - Creating the object without exposing the creation logic to the client and refer to newly created object using a common interface.
