@@ -1,7 +1,7 @@
 # Question
 
 
-1. Objective: Algorithm:
+# 1. Objective: Algorithm:
 
 Reverses a single list. Need answer with Java code
 The Node of the single list as the following:
@@ -25,9 +25,7 @@ public Node reverseList(Node head){
 
 }
 
-
-Answer - package com.fortinet.example
-
+# Answer - package com.fortinet.example
 
 
 
@@ -48,12 +46,13 @@ Answer - package com.fortinet.example
 
 
 
-2. Select one from Singleton，Dynamic Proxy，
+
+# 2. Select one from Singleton，Dynamic Proxy，
   Factory and Interpreter design pattern or the one you like most. 
 Assume you are using Java 7+
 
 
-Ans - 
+# Answer - 
 
 Factory Pattern :
 - Creating the object without exposing the creation logic to the client and refer to newly created object using a common interface.
