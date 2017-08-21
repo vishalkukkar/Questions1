@@ -1,4 +1,6 @@
 # Question
+
+
 1. Objective: Algorithm:
 
 Reverses a single list. Need answer with Java code
@@ -25,6 +27,25 @@ public Node reverseList(Node head){
 
 
 Answer - package com.fortinet.example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 2. Select one from Singleton，Dynamic Proxy，
