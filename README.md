@@ -69,6 +69,7 @@ Factory Pattern :
 # Spring & hibernate Questions
 
 1.What is Session in Hibernate?
+
 Ans - A Session is used to get a physical connection with a database. The Session object is lightweight and designed to be instantiated each time an interaction is needed with the database. Persistent objects are saved and retrieved through a Session object.
 
 
