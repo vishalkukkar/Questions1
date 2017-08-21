@@ -1,7 +1,7 @@
 
 
 
-#   1. Objective: Algorithm:
+# 1. Objective: Algorithm:
 
 Reverses a single list. Need answer with Java code
 The Node of the single list as the following:
@@ -29,25 +29,7 @@ Answer - under package com.fortinet.example
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#   2. Design Pattern
+# 2.Design Pattern
 Select one from Singleton，Dynamic Proxy，Factory and Interpreter design pattern or the one you like most. 
 Assume you are using Java 7+
 
@@ -66,7 +48,7 @@ Factory Pattern :
  under package com.fortinet.factorypattern
 
 
-# Spring & hibernate Questions
+# 3.Spring & hibernate Questions
 
 1.What is Session in Hibernate?
 
