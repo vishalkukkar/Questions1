@@ -65,3 +65,12 @@ Factory Pattern :
 
  under package com.fortinet.factorypattern
 
+
+# Spring & hibernate Questions
+
+1.What is Session in Hibernate?
+Ans - A Session is used to get a physical connection with a database. The Session object is lightweight and designed to be instantiated each time an interaction is needed with the database. Persistent objects are saved and retrieved through a Session object.
+
+
+2.How would you control transaction with Spring & Hibernate. Answer with different scenarios
+- Using annnotation @Transactional in repository interface
